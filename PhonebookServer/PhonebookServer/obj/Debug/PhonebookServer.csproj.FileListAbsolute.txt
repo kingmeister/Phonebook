@@ -1,0 +1,49 @@
+C:\Users\Евгений\Documents\Visual Studio 2015\Projects\PhonebookServer\PhonebookServer\bin\Debug\PhonebookServer.exe.config
+C:\Users\Евгений\Documents\Visual Studio 2015\Projects\PhonebookServer\PhonebookServer\bin\Debug\PhonebookServer.exe
+C:\Users\Евгений\Documents\Visual Studio 2015\Projects\PhonebookServer\PhonebookServer\bin\Debug\PhonebookServer.pdb
+C:\Users\Евгений\Documents\Visual Studio 2015\Projects\PhonebookServer\PhonebookServer\bin\Debug\EntityFramework.dll
+C:\Users\Евгений\Documents\Visual Studio 2015\Projects\PhonebookServer\PhonebookServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Евгений\Documents\Visual Studio 2015\Projects\PhonebookServer\PhonebookServer\bin\Debug\EntityFramework.xml
+C:\Users\Евгений\Documents\Visual Studio 2015\Projects\PhonebookServer\PhonebookServer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Евгений\Documents\Visual Studio 2015\Projects\PhonebookServer\PhonebookServer\obj\Debug\PhonebookServer.csprojResolveAssemblyReference.cache
+C:\Users\Евгений\Documents\Visual Studio 2015\Projects\PhonebookServer\PhonebookServer\obj\Debug\PhonebookServer.exe
+C:\Users\Евгений\Documents\Visual Studio 2015\Projects\PhonebookServer\PhonebookServer\obj\Debug\PhonebookServer.pdb
+C:\Users\Eugene Golovin\Desktop\PhonebookServer\PhonebookServer\bin\Debug\PhonebookServer.exe.config
+C:\Users\Eugene Golovin\Desktop\PhonebookServer\PhonebookServer\obj\Debug\PhonebookServer.exe
+C:\Users\Eugene Golovin\Desktop\PhonebookServer\PhonebookServer\obj\Debug\PhonebookServer.pdb
+C:\Users\Eugene Golovin\Desktop\PhonebookServer\PhonebookServer\bin\Debug\PhonebookServer.exe
+C:\Users\Eugene Golovin\Desktop\PhonebookServer\PhonebookServer\bin\Debug\PhonebookServer.pdb
+C:\Users\Eugene Golovin\Desktop\PhonebookServer\PhonebookServer\bin\Debug\EntityFramework.dll
+C:\Users\Eugene Golovin\Desktop\PhonebookServer\PhonebookServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Eugene Golovin\Desktop\PhonebookServer\PhonebookServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eugene Golovin\Desktop\PhonebookServer\PhonebookServer\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Eugene Golovin\Desktop\PhonebookServer\PhonebookServer\bin\Debug\System.Web.Http.dll
+C:\Users\Eugene Golovin\Desktop\PhonebookServer\PhonebookServer\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Users\Eugene Golovin\Desktop\PhonebookServer\PhonebookServer\bin\Debug\EntityFramework.xml
+C:\Users\Eugene Golovin\Desktop\PhonebookServer\PhonebookServer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Eugene Golovin\Desktop\PhonebookServer\PhonebookServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Eugene Golovin\Desktop\PhonebookServer\PhonebookServer\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Eugene Golovin\Desktop\PhonebookServer\PhonebookServer\bin\Debug\System.Web.Http.xml
+C:\Users\Eugene Golovin\Desktop\PhonebookServer\PhonebookServer\bin\Debug\System.Web.Http.SelfHost.xml
+C:\Users\Eugene Golovin\Desktop\PhonebookServer\PhonebookServer\obj\Debug\PhonebookServer.csprojResolveAssemblyReference.cache
+C:\Users\Головины\Desktop\PhonebookServer\PhonebookServer\bin\Debug\PhonebookServer.exe.config
+C:\Users\Головины\Desktop\PhonebookServer\PhonebookServer\obj\Debug\PhonebookServer.exe
+C:\Users\Головины\Desktop\PhonebookServer\PhonebookServer\obj\Debug\PhonebookServer.pdb
+C:\Users\Головины\Desktop\PhonebookServer\PhonebookServer\bin\Debug\PhonebookServer.exe
+C:\Users\Головины\Desktop\PhonebookServer\PhonebookServer\bin\Debug\PhonebookServer.pdb
+C:\Users\Головины\Desktop\PhonebookServer\PhonebookServer\bin\Debug\EntityFramework.dll
+C:\Users\Головины\Desktop\PhonebookServer\PhonebookServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Головины\Desktop\PhonebookServer\PhonebookServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Головины\Desktop\PhonebookServer\PhonebookServer\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Головины\Desktop\PhonebookServer\PhonebookServer\bin\Debug\System.Web.Http.dll
+C:\Users\Головины\Desktop\PhonebookServer\PhonebookServer\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Users\Головины\Desktop\PhonebookServer\PhonebookServer\bin\Debug\EntityFramework.xml
+C:\Users\Головины\Desktop\PhonebookServer\PhonebookServer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Головины\Desktop\PhonebookServer\PhonebookServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Головины\Desktop\PhonebookServer\PhonebookServer\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Головины\Desktop\PhonebookServer\PhonebookServer\bin\Debug\System.Web.Http.xml
+C:\Users\Головины\Desktop\PhonebookServer\PhonebookServer\bin\Debug\System.Web.Http.SelfHost.xml
+C:\Users\Головины\Desktop\PhonebookServer\PhonebookServer\obj\Debug\PhonebookServer.csprojResolveAssemblyReference.cache
+C:\Phonebook\PhonebookServer\PhonebookServer\bin\Debug\PhonebookServer.exe.config
+C:\Phonebook\PhonebookServer\PhonebookServer\obj\Debug\PhonebookServer.exe
+C:\Phonebook\PhonebookServer\PhonebookServer\obj\Debug\PhonebookServer.pdb

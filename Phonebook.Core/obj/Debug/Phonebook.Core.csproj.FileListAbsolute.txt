@@ -1,0 +1,21 @@
+c:\users\eugene golovin\documents\visual studio 2015\Projects\TestClient\Phonebook.Core\bin\Debug\Phonebook.Core.dll
+c:\users\eugene golovin\documents\visual studio 2015\Projects\TestClient\Phonebook.Core\bin\Debug\Phonebook.Core.pdb
+c:\users\eugene golovin\documents\visual studio 2015\Projects\TestClient\Phonebook.Core\bin\Debug\Newtonsoft.Json.dll
+c:\users\eugene golovin\documents\visual studio 2015\Projects\TestClient\Phonebook.Core\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\eugene golovin\documents\visual studio 2015\Projects\TestClient\Phonebook.Core\bin\Debug\Newtonsoft.Json.xml
+c:\users\eugene golovin\documents\visual studio 2015\Projects\TestClient\Phonebook.Core\bin\Debug\System.Net.Http.Formatting.xml
+c:\users\eugene golovin\documents\visual studio 2015\Projects\TestClient\Phonebook.Core\obj\Debug\Phonebook.Core.csprojResolveAssemblyReference.cache
+c:\users\eugene golovin\documents\visual studio 2015\Projects\TestClient\Phonebook.Core\obj\Debug\Phonebook.Core.dll
+c:\users\eugene golovin\documents\visual studio 2015\Projects\TestClient\Phonebook.Core\obj\Debug\Phonebook.Core.pdb
+C:\Users\Головины\Desktop\Phonebook.Core\bin\Debug\Phonebook.Core.dll
+C:\Users\Головины\Desktop\Phonebook.Core\bin\Debug\Phonebook.Core.pdb
+C:\Users\Головины\Desktop\Phonebook.Core\obj\Debug\Phonebook.Core.csprojResolveAssemblyReference.cache
+C:\Users\Головины\Desktop\Phonebook.Core\obj\Debug\Phonebook.Core.dll
+C:\Users\Головины\Desktop\Phonebook.Core\obj\Debug\Phonebook.Core.pdb
+C:\Users\Головины\Desktop\Phonebook.Core\bin\Debug\Phonebook.Core.dll.config
+C:\Phonebook\Phonebook.Core\bin\Debug\Phonebook.Core.dll.config
+C:\Phonebook\Phonebook.Core\bin\Debug\Phonebook.Core.dll
+C:\Phonebook\Phonebook.Core\bin\Debug\Phonebook.Core.pdb
+C:\Phonebook\Phonebook.Core\obj\Debug\Phonebook.Core.csprojResolveAssemblyReference.cache
+C:\Phonebook\Phonebook.Core\obj\Debug\Phonebook.Core.dll
+C:\Phonebook\Phonebook.Core\obj\Debug\Phonebook.Core.pdb

@@ -1,0 +1,112 @@
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\ApplicationInsights.config
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\roslyn\csc.exe
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\roslyn\vbc.exe
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\PhonebookWebApp.dll.config
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\PhonebookWebApp.dll
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\PhonebookWebApp.pdb
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\Microsoft.AI.Web.dll
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\Phonebook.Core.dll
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\System.Web.Helpers.dll
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\System.Web.Mvc.dll
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\System.Web.Razor.dll
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\System.Web.Webpages.dll
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\Newtonsoft.Json.dll
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\Phonebook.Core.pdb
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\Microsoft.AI.Web.xml
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\System.Web.Razor.xml
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\System.Web.Webpages.xml
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\System.Web.Helpers.xml
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\System.Web.Mvc.xml
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\obj\Debug\PhonebookWebApp.csprojResolveAssemblyReference.cache
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\obj\Debug\PhonebookWebApp.dll
+C:\Users\Головины\Documents\Visual Studio 2015\Projects\PhonebookWebApp\PhonebookWebApp\obj\Debug\PhonebookWebApp.pdb
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\obj\Debug\PhonebookWebApp.csprojResolveAssemblyReference.cache
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\obj\Debug\PhonebookWebApp.dll
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\obj\Debug\PhonebookWebApp.pdb
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\ApplicationInsights.config
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\roslyn\csc.exe
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\roslyn\vbc.exe
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\roslyn\VBCSCompiler.exe
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\PhonebookWebApp.dll.config
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\PhonebookWebApp.dll
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\PhonebookWebApp.pdb
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\Microsoft.AI.Web.dll
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\Microsoft.ApplicationInsights.dll
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\Phonebook.Core.dll
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\System.Web.Helpers.dll
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\System.Web.Mvc.dll
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\System.Web.Razor.dll
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\System.Web.Webpages.Deployment.dll
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\System.Web.Webpages.dll
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\System.Web.Webpages.Razor.dll
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\Newtonsoft.Json.dll
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\System.Net.Http.Formatting.dll
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\Phonebook.Core.pdb
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\Microsoft.AI.Web.xml
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\Microsoft.ApplicationInsights.xml
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\System.Web.Razor.xml
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\System.Web.Webpages.xml
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\System.Web.Webpages.Deployment.xml
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\System.Web.Webpages.Razor.xml
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\System.Web.Helpers.xml
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\System.Web.Mvc.xml
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\ru\System.Web.Razor.resources.dll
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\ru\System.Web.Webpages.resources.dll
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\ru\System.Web.Helpers.resources.dll
+C:\Phonebook\PhonebookWebApp\PhonebookWebApp\bin\ru\System.Web.Mvc.resources.dll
