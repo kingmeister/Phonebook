@@ -1,4 +1,5 @@
 ﻿using Phonebook.Core;
+using Phonebook.Core.Exceptions;
 using Phonebook.Core.Model;
 using System;
 using System.Collections.Generic;
@@ -11,25 +12,34 @@ namespace PhonebookWebApp.Controllers
     public class PhonebookController : Controller
     {
         CommandInvoker invoker = new CommandInvoker();
+        
         // GET: Phonebook
         public ActionResult Index(int? id)
         {
-            List<Contact> contacts;
-            if (id == null || id == -2)
-                contacts = invoker.GetAllContacts();
+            List<Contact> contacts = null;
 
-            else
+            try
             {
-                if (id > -1)
-                {
-                    contacts = new List<Contact>();
-                    contacts.Add(invoker.GetContact(id.Value));
-                }
-                    
+                if (id == null)
+                    contacts = invoker.GetAllContacts();
+
                 else
-                    contacts = null;
+                {
+                    if (id > -1)
+                    {
+                        contacts = new List<Contact>();
+                        contacts.Add(invoker.GetContact(id.Value));
+                    }
+
+                    else
+                        contacts = null;
+                }
             }
-               
+
+            catch (ServerException e)
+            {
+                ViewBag.Error = e.Message.ToString();
+            }
 
             return View(contacts);
         }
@@ -44,7 +54,17 @@ namespace PhonebookWebApp.Controllers
         [HttpGet]
         public ActionResult Change(int id)
         {
-            var contact = invoker.GetContact(id);
+            Contact contact = null;
+
+            try
+            {
+                contact = invoker.GetContact(id);
+            }
+
+            catch (ServerException e)
+            {
+                ViewBag.Error = e.Message.ToString();
+            }
 
             return View(contact);
         }
@@ -52,15 +72,31 @@ namespace PhonebookWebApp.Controllers
         [HttpPost]
         public ActionResult Change(Contact contact)
         {
-            invoker.Change(contact);
+            try
+            {
+                invoker.Change(contact);
+            }
+
+            catch (ServerException e)
+            {
+                ViewBag.Error = e.Message.ToString();
+            }
 
             return RedirectToAction("Index");
         }
 
         public ActionResult Delete(int id)
         {
-            invoker.Delete(id);
+            try
+            {
+                invoker.Delete(id);
+            }
 
+            catch (ServerException e)
+            {
+                ViewBag.Error = e.Message.ToString();
+            }
+           
             return RedirectToAction("Index");
         }
 
@@ -73,20 +109,37 @@ namespace PhonebookWebApp.Controllers
         [HttpPost]
         public ActionResult Add(Contact contact)
         {
-            invoker.Add(contact);
+            try
+            {
+                invoker.Add(contact);
+            }
+
+            catch (ServerException e)
+            {
+                ViewBag.Error = e.Message.ToString();
+            }
+            
 
             return RedirectToAction("Index");
         }
 
         public ActionResult Search(string name)
         {
-            var contact =invoker.Search(name);
-            int id = -1;
+            try
+            {
+                var contact = invoker.Search(name);
+                int id = -1;
 
-            if(contact != null)
-                id = contact.Id;
+                if (contact != null)
+                    id = contact.Id;
+                return RedirectToAction("Index", new { id = id });
+            }
 
-            return RedirectToAction("Index", new { id = id });
+            catch (ServerException e)
+            {
+                ViewBag.Error = e.Message.ToString();
+                return RedirectToAction("Index");
+            }
         }
     }
 }

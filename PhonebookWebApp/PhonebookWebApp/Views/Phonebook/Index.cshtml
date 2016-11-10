@@ -2,35 +2,44 @@
 @model List<Contact>
 
 <h2>Contact List</h2>
-@if (Model == null)
+@if (ViewBag.Error != null)
 {
-    <div>No contacts</div>
+    <div>@ViewBag.Error</div>
 }
 else
 {
-    <table class="table">
-        <thead>
-            <tr>
-                <th>Name</th>
-                <th>Phone</th>
-                <th>Delete</th>
-                <th>Change</th>
-            </tr>
-        </thead>
-        <tbody>
-            @foreach (var contact in Model)
-            {
+    if (Model == null)
+    {
+        <div>No contacts</div>
+    }
+    else
+    {
+        <table class="table">
+            <thead>
                 <tr>
-                    <td>@contact.Name</td>
-                    <td>@contact.PhoneNumber</td>
-                    <td><a href=@Url.Action("Delete",new { id = contact.Id })>Delete</a></td>
-                    <td><a href=@Url.Action("Change",new { id = contact.Id })>Edit</a></td>
+                    <th>Name</th>
+                    <th>Phone</th>
+                    <th>Delete</th>
+                    <th>Change</th>
                 </tr>
-            }
+            </thead>
+            <tbody>
+                @foreach (var contact in Model)
+                {
+                    <tr>
+                        <td>@contact.Name</td>
+                        <td>@contact.PhoneNumber</td>
+                        <td><a href=@Url.Action("Delete",new { id = contact.Id })>Delete</a></td>
+                        <td><a href=@Url.Action("Change",new { id = contact.Id })>Edit</a></td>
+                    </tr>
+                }
 
-        </tbody>
-    </table>
+            </tbody>
+        </table>
+    }
 }
+
+
 
 
 

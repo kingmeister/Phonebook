@@ -9,6 +9,7 @@ using System.Net;
 using Newtonsoft.Json.Linq;
 using System.Configuration;
 using Newtonsoft.Json;
+using Phonebook.Core.Exceptions;
 
 namespace Phonebook.Core
 {
@@ -27,9 +28,17 @@ namespace Phonebook.Core
             string url = baseAdress
                 + "/api/command/get/" + id;
 
-            var response = client.GetStringAsync(url).Result;
+            try
+            {
+                var response = client.GetStringAsync(url).Result;
 
-            return JsonConvert.DeserializeObject<Contact>(response);
+                return JsonConvert.DeserializeObject<Contact>(response);
+            }
+
+            catch (AggregateException)
+            {
+                throw new ServerException("Server connection error");
+            }
         }
 
         public void Add(Contact contact)
@@ -37,15 +46,32 @@ namespace Phonebook.Core
             string url = baseAdress
                 + "/api/command/add";
 
-            var response = client.PostAsJsonAsync<Contact>(url, contact).Result;
+            try
+            {
+                var response = client.PostAsJsonAsync<Contact>(url, contact).Result;
+            }
+
+            catch (AggregateException)
+            {
+                throw new ServerException("Server connection error");
+            }
+
         }
 
         public void Delete(int id)
         {
             string url = baseAdress
                 + "/api/command/delete/" + id;
+            try
+            {
+                var response = client.DeleteAsync(url).Result;
+            }
 
-            var response = client.DeleteAsync(url).Result;
+            catch (AggregateException)
+            {
+                throw new ServerException("Server connection error");
+            }
+
         }
 
         public Contact Search(string name)
@@ -53,9 +79,17 @@ namespace Phonebook.Core
             string url = baseAdress
                 + "/api/command/search?name=" + name;
 
-            var response = client.GetStringAsync(url).Result;
+            try
+            {
+                var response = client.GetStringAsync(url).Result;
 
-            return JsonConvert.DeserializeObject<Contact>(response);
+                return JsonConvert.DeserializeObject<Contact>(response);
+            }
+
+            catch (AggregateException)
+            {
+                throw new ServerException("Server connection error");
+            }
         }
 
         public void Change(Contact contact)
@@ -63,7 +97,16 @@ namespace Phonebook.Core
             string url = baseAdress
                 + "/api/command/change/";
 
-            var response = client.PostAsJsonAsync<Contact>(url, contact).Result;
+            try
+            {
+                var response = client.PostAsJsonAsync<Contact>(url, contact).Result;
+            }
+
+            catch (AggregateException)
+            {
+                throw new ServerException("Server connection error");
+            }
+
         }
 
         public List<Contact> GetAllContacts()
@@ -71,9 +114,17 @@ namespace Phonebook.Core
             string url = baseAdress
                 + "/api/command/getallcontacts";
 
-            var response = client.GetStringAsync(url).Result;
+            try
+            {
+                var response = client.GetStringAsync(url).Result;
 
-            return  JsonConvert.DeserializeObject<List<Contact>>(response);
+                return JsonConvert.DeserializeObject<List<Contact>>(response);
+            }
+
+            catch(AggregateException)
+            {
+                throw new ServerException("Server connection error");
+            }
         }
     }
 }

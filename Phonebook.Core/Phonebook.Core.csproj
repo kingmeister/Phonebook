@@ -50,6 +50,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CommandInvoker.cs" />
+    <Compile Include="Exceptions\ServerException.cs" />
     <Compile Include="Model\Contact.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
